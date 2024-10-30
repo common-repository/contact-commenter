@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Commenter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-28 16:47+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Reza Moallemi <reza.ce84@gmail.com>\n"
+"Language-Team: Reza Moallemi <reza.ce84@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: contact-commenter.js.php:91
+msgid "Email title can not be empty"
+msgstr "عنوان پاسخ را وارد کنید"
+
+#: contact-commenter.js.php:97
+msgid "Body can not be empty"
+msgstr "متن پاسخ را وارد کنید"
+
+#: contact-commenter.js.php:112
+msgid "Sending email ..."
+msgstr "در حال ارسال پاسخ..."
+
+#: contact-commenter.js.php:119
+msgid "Email Sent Successfully."
+msgstr "پاسخ با موفقیت ارسال شد."
+
+#: contact-commenter.js.php:122
+#: contact-commenter.php:238
+msgid "Email Title"
+msgstr "عنوان پاسخ"
+
+#: contact-commenter.js.php:129
+msgid "Error in sendeing email."
+msgstr "ارسال پاسخ با خطا روبرو شد."
+
+#: contact-commenter.php:18
+msgid "Contact Commenter"
+msgstr "تماس با نظردهندگان"
+
+#: contact-commenter.php:59
+msgid "Email was sent to:"
+msgstr "پیام شما به آدرس‏های ایمیل زیر ارسال شد:"
+
+#: contact-commenter.php:66
+msgid "Contact Commenter Form"
+msgstr "فرم تماس با نظردهندگان"
+
+#: contact-commenter.php:78
+msgid "Name:"
+msgstr "نام:"
+
+#: contact-commenter.php:78
+#: contact-commenter.php:82
+#: contact-commenter.php:120
+msgid "(Required)"
+msgstr "(لازم)"
+
+#: contact-commenter.php:81
+msgid "From:"
+msgstr "از:"
+
+#: contact-commenter.php:82
+msgid "e.g. someone@example.com"
+msgstr "برای مثال <i> someone@example.com</i>"
+
+#: contact-commenter.php:85
+msgid "To:"
+msgstr "به:"
+
+#: contact-commenter.php:91
+msgid "Commenter"
+msgstr "نظردهنده"
+
+#: contact-commenter.php:92
+msgid "Email"
+msgstr "ایمیل"
+
+#: contact-commenter.php:93
+msgid "URL"
+msgstr "آدرس"
+
+#: contact-commenter.php:94
+msgid "Comment Count"
+msgstr "تعداد نظرات"
+
+#: contact-commenter.php:116
+msgid "People Wrote commentes on your blog."
+msgstr "نفر در وبلاگ/سایت شما نظر داده‏اند."
+
+#: contact-commenter.php:120
+msgid "Subject:"
+msgstr "موضوع:"
+
+#: contact-commenter.php:123
+msgid "Body:"
+msgstr "متن"
+
+#: contact-commenter.php:126
+msgid "Reply-to:"
+msgstr "پاسخ به"
+
+#: contact-commenter.php:129
+msgid "Cc:"
+msgstr "Cc:"
+
+#: contact-commenter.php:132
+msgid "Bcc:"
+msgstr "Bcc:"
+
+#: contact-commenter.php:137
+msgid "Send Emails"
+msgstr "ارسال ایمیل"
+
+#: contact-commenter.php:141
+msgid "My other plugins for wordpress:"
+msgstr "دیگر افزونه‏های کاوشگر برای وردپرس:"
+
+#: contact-commenter.php:143
+msgid "Google Reader Stats "
+msgstr "آماره‌ی گوگل ریدر"
+
+#: contact-commenter.php:144
+#: contact-commenter.php:148
+#: contact-commenter.php:152
+#: contact-commenter.php:156
+#: contact-commenter.php:160
+#: contact-commenter.php:164
+#: contact-commenter.php:168
+msgid "Download"
+msgstr "دریافت"
+
+#: contact-commenter.php:145
+#: contact-commenter.php:149
+#: contact-commenter.php:153
+#: contact-commenter.php:157
+#: contact-commenter.php:161
+#: contact-commenter.php:165
+#: contact-commenter.php:169
+msgid "More Information"
+msgstr "اطلاعات بیشتر"
+
+#: contact-commenter.php:147
+msgid "Likekhor "
+msgstr "لایک‌خور"
+
+#: contact-commenter.php:151
+msgid "Google Transliteration "
+msgstr "نویسه‏گردان گوگل"
+
+#: contact-commenter.php:153
+msgid "http://www.moallemi.ir/en/blog/2009/10/10/google-transliteration-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1388/07/19/%d8%a7%d9%81%d8%b2%d9%88%d9%86%d9%87-%db%8c-%d9%86%d9%88%db%8c%d8%b3%d9%87-%da%af%d8%b1%d8%af%d8%a7%d9%86-%da%af%d9%88%da%af%d9%84-%d8%a8%d8%b1%d8%a7%db%8c-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: contact-commenter.php:155
+msgid "Advanced User Agent Displayer "
+msgstr "نمایش‏دهنده‏ی اطلاعات نظردهندگان"
+
+#: contact-commenter.php:157
+msgid "http://www.moallemi.ir/en/blog/2009/09/20/advanced-user-agent-displayer/"
+msgstr "http://www.moallemi.ir/blog/1388/07/24/%d8%a7%d9%81%d8%b2%d9%88%d9%86%d9%87-%db%8c-%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d8%af%d9%87%d9%86%d8%af%d9%87-%db%8c-%d8%a7%d8%b7%d9%84%d8%a7%d8%b9%d8%a7%d8%aa-%d9%86%d8%b8%d8%b1-%d8%af%d9%87%d9%86%d8%af/"
+
+#: contact-commenter.php:159
+msgid "Behnevis Transliteration "
+msgstr "نویسه‏گردان بهنویس"
+
+#: contact-commenter.php:163
+msgid "Comments On Feed "
+msgstr "نظرات در فید"
+
+#: contact-commenter.php:165
+msgid "http://www.moallemi.ir/en/blog/2009/12/18/comments-on-feed-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1388/09/28/%d8%a7%d9%81%d8%b2%d9%88%d9%86%d9%87-%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d9%86%d8%b8%d8%b1%d8%a7%d8%aa-%d8%af%d8%b1-%d9%81%db%8c%d8%af-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: contact-commenter.php:167
+msgid "Feed Delay "
+msgstr "تاخیر در فید"
+
+#: contact-commenter.php:169
+msgid "http://www.moallemi.ir/en/blog/2010/02/25/feed-delay-for-wordpress/"
+msgstr "http://www.moallemi.ir/blog/1388/12/07/%d8%a7%d9%81%d8%b2%d9%88%d9%86%d9%87-%d8%a7%d9%86%d8%aa%d8%b4%d8%a7%d8%b1-%d9%85%d8%b7%d8%a7%d9%84%d8%a8-%d9%81%db%8c%d8%af-%d8%aa%d8%a7%d8%ae%db%8c%d8%b1-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3/"
+
+#: contact-commenter.php:191
+msgid "Please fill in all required fields."
+msgstr "لطفا تمامی قسمت‌های لازم را پر کنید!"
+
+#: contact-commenter.php:218
+msgid "Private Reply"
+msgstr "پاسخ خصوصی"
+
+#: contact-commenter.php:240
+msgid "Post Private Reply"
+msgstr "ارسال پاسخ خصوصی"
+
+#: contact-commenter.php:241
+msgid "Cancel"
+msgstr "انصراف"
+
+#: contact-commenter.php:251
+msgid "Settings"
+msgstr "تنظیمات"
+
+#~ msgid "Contact Commenter Settings"
+#~ msgstr "تنظیمات تماس با نظردهندگان"
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
